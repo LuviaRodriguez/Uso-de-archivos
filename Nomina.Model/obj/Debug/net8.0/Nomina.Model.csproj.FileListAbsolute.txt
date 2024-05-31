@@ -1,0 +1,11 @@
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\bin\Debug\net8.0\Nomina.Model.deps.json
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\bin\Debug\net8.0\Nomina.Model.dll
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\bin\Debug\net8.0\Nomina.Model.pdb
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.dll
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\refint\Nomina.Model.dll
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\Nomina.Model.pdb
+C:\Users\rodri\source\repos\Poo\Nomina\Nomina.Model\obj\Debug\net8.0\ref\Nomina.Model.dll

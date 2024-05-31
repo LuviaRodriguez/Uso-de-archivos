@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nomina.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Nomina.Model": "1.0.0"
+        },
+        "runtime": {
+          "Nomina.ConsoleApp.dll": {}
+        }
+      },
+      "Nomina.Model/1.0.0": {
+        "runtime": {
+          "Nomina.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nomina.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nomina.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
